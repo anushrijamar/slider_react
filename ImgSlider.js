@@ -1,7 +1,7 @@
 import React from 'react';
-import myImage from './components/dore.jpg';
-import myImage2 from './components/doremon copy.png'
-import myImage1 from './components/doru.jpg'
+import myImage from './dore.jpg';
+import myImage2 from './doremon copy.png'
+import myImage1 from './doru.jpg'
 import { useState,useEffect } from 'react';
 
 export const ImgSlider = () => {
